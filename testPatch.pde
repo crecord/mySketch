@@ -1,7 +1,6 @@
 void setup() {
   size(500,500);
-  smooth();
-  
+  smooth(); 
 }
 
 void draw() {
